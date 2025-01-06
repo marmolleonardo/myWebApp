@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\marmo\\Projects\\.Net\\myWebApp\\myWebApp.csproj": {}
+    "C:\\Users\\marmo\\Projects\\.Net\\myWebApp\\myWebApp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\marmo\\Projects\\.Net\\myWebApp\\myWebApp.csproj": {
+    "C:\\Users\\marmo\\Projects\\.Net\\myWebApp\\myWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\marmo\\Projects\\.Net\\myWebApp\\myWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\marmo\\Projects\\.Net\\myWebApp\\myWebApp.csproj",
         "projectName": "myWebApp",
-        "projectPath": "c:\\Users\\marmo\\Projects\\.Net\\myWebApp\\myWebApp.csproj",
+        "projectPath": "C:\\Users\\marmo\\Projects\\.Net\\myWebApp\\myWebApp.csproj",
         "packagesPath": "C:\\Users\\marmo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\marmo\\Projects\\.Net\\myWebApp\\obj\\",
+        "outputPath": "C:\\Users\\marmo\\Projects\\.Net\\myWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marmo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -61,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
